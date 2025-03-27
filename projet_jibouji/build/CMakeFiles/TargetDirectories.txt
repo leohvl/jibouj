@@ -1,0 +1,3 @@
+/home/admin/Desktop/projet_jibouji/build/CMakeFiles/projet_jibouji.dir
+/home/admin/Desktop/projet_jibouji/build/CMakeFiles/edit_cache.dir
+/home/admin/Desktop/projet_jibouji/build/CMakeFiles/rebuild_cache.dir

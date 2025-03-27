@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/projet_jibouji.dir/lib/read_wave/read_wave.cpp.o CMakeFiles/projet_jibouji.dir/src/main.cpp.o -o projet_jibouji  -Wl,-rpath,/usr/local/lib /usr/local/lib/libwiringPi.so /usr/lib/aarch64-linux-gnu/libsndfile.so 
